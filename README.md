@@ -18,5 +18,5 @@ Model evaluation results using the Convolutional neural network (CNN) method:
 ### Evaluasi LOOCV
 Model evaluation results using the Leave-One-Out Cross Validation (LOOCV) method:
 
-![LOOCV Confusion Matrix](./images/LOOCV%20Confussion%20Matrix.png)
+![LOOCV Confusion Matrix](./Images/LOOCV%20Confussion%20Matrix.png)
 *Picture 3: LOOCV Confusion matrix*
